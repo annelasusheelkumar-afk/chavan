@@ -1,0 +1,6 @@
+{
+  "name": "Chavan Diagnostic Centre",
+  "description": "Comprehensive diagnostic laboratory, physiotherapy clinic, and optical eye care centre located near Purana Pool, Afzal Gunj, Hyderabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
